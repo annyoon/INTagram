@@ -1,1 +1,2 @@
-# 2020_sns_Credit-evaluation
+# INTagram
+인스타그램 계정 정보를 활용한 소상공인 계정의 발전 가능성 평가 서비스
